@@ -1,0 +1,292 @@
+.wrap
+{
+	height: auto;
+	width: 1280px;
+	margin: auto;
+	padding: 0;
+}
+
+.head
+{
+	background-color: white;
+	height: 120px;
+	width: 100%;
+	position: fixed;
+	border-bottom: 1px solid #5d5d5d;
+	top: 0px;
+	left: 0px;
+	box-sizing: border-box;
+}
+
+.Metr
+{
+
+	float: left;
+	margin-top: 45px;
+	margin-left: 255px;
+}
+
+.Shape
+{
+	
+	float: left;
+	margin-top: 55px;
+	margin-left: -127px;
+}
+
+.ipad
+{
+	float: left;
+	margin-top: 240px;
+	margin-right: 560px;
+}
+
+.body
+{
+	height: 650px;
+	width: 100%;
+}
+
+._1
+{
+	
+	
+	width: 35%;
+	float: left;
+}
+
+._2
+{
+	
+	width: 64%;
+	float: left;
+	padding: 0;
+}
+
+.uptext
+{
+	font-size: 50px;
+	color: #5d5d5d;
+	float: left;
+	margin-left: 80px;
+	margin-top: 310px;
+}
+
+.banner
+{
+	float: left;
+	margin-top: 30px;
+	margin-left: 80px;
+}
+
+.submenu1
+{
+	margin-left: 660px;
+	float: left;
+	cursor: default;
+	position: absolute;
+}
+
+ul li
+{
+	margin-top: 60px;
+	float: left;
+	text-align: center;
+	font-size: 20px;
+	margin-left: 40px;
+	cursor: default;
+	color: #5d5d5d;
+	display: inline;
+	padding: 10px;
+}
+
+ul li:hover
+{
+	background-color: #5d5d5d;
+	color: white;
+	transition: all 0.5s ease;
+}
+
+.upleft
+{
+	float: left;
+	height: 240px;
+	width: 680px;
+	margin-left: 80px;
+}
+
+.upimg
+{
+	float: left;
+}
+
+.upfont
+{
+	float: left;
+	margin-left: 30px;
+	margin-top: -25px;
+	color: #5d5d5d;
+	font-size: 15.5px;
+}
+
+.upright
+{
+	margin-left: 165px;
+	padding-top: 10px;
+	float: left;
+	box-shadow: inset 0 0 6px;
+	height: 235px;
+	width: 320px;
+	text-align: center;
+
+}
+
+.content
+{
+	display: grid;
+	grid-template-columns: 33% 33% 33%;
+	margin: auto;
+	float: left;
+	margin-left: 80px;
+	margin-top: 50px;
+	width: 735px;
+}
+
+.cont
+{
+	text-align: justify;
+	width: 220px;
+}
+
+.textgl
+{
+	color: #5d5d5d;
+
+}
+
+.text0
+{
+	color: #5d5d5d;
+	line-height: 40px;
+}
+
+.text1
+{
+	color: #5d5d5d;
+	line-height: 1.5;
+
+
+}
+
+.ad2
+{
+	float: left;
+	margin-left: 105px;
+	margin-top: -490px;
+}
+
+.subscribe
+{
+	float: left;
+	margin-left: 105px;
+	margin-top: -150px;
+	height: 319px;
+	width: 278px;
+	background-color: #393a39;
+	padding-left: 20px;
+	padding-right: 20px;
+
+}
+
+.subscribe em
+{
+	text-align: center;
+}
+
+.buttom
+{
+	height: 30px;
+	width: 140px;
+	border-radius: 5px;
+	background-color: #bb4465;
+	margin-left: 70px;
+	text-align: center;
+	
+	font-size: 20px;
+	cursor: default;
+	color: white;
+	padding: 5px;
+}
+
+.buttom a
+{
+	text-decoration: none;
+}
+
+.reg
+{
+	color: white;
+	text-align: center;
+}
+
+.reg2
+{
+	color: white;
+	padding-bottom: 5px;
+	text-align: center;
+	padding-left: 25px;
+	text-align: center;
+	font-size: 15px;
+}
+
+.pol
+{
+	background-color: #bb4465;
+	height: 10px;
+	width: 318px; 
+	margin-left: -20px;
+	margin-top: 36px;
+
+}
+
+.footer
+{
+	height: 86px;
+	width: 100%;
+	background-color: #393a39;
+	float: left;
+	left: 0px;
+	margin-top:  150px;
+	box-sizing: border-box;
+}
+
+.fb_1
+{
+	float: left;
+	margin-top: 30px;
+	margin-left: 300px;
+}
+
+.you_tube
+{
+	float: left;
+	margin-top: 30px;
+	margin-left: 15px;
+}
+
+.twitter_1
+{
+	float: left;
+	margin-top: 30px;
+	margin-left: 15px;
+}
+
+.footertext 
+{
+	color: white;
+	float: left;
+	margin-top: 30px;
+	margin-left: 400px;
+	text-align: center;
+	font-size: 15px;
+}
